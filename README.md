@@ -1,4 +1,7 @@
-### Hi there 👋
+### yo 👋
+
+
+im ok (not really) at c,c++,python
 
 <!--
 **bailey0x17/bailey0x17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
